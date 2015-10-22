@@ -1,7 +1,7 @@
 Javascript grade
 ----------------
 
-![screenshot julia](https://github.com/heri/javascript-grader/blob/master/juliabot.jpg?raw=true =750x)
+![screenshot julia](https://github.com/heri/javascript-grader/blob/master/preview.jpg?raw=true =650x)
 
 Real-time grading of pictures with Javascript. Will include filters for :
 
