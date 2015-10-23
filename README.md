@@ -3,21 +3,22 @@ Javascript grade
 
 ![screenshot julia](https://github.com/heri/javascript-grader/blob/master/preview.jpg?raw=true =650x)
 
-Real-time grading of pictures with Javascript. Will include filters for :
+Real-time grading of pictures with Javascript on HTML5 Canvas element.
 
-* Sony A7, Sony A7II, Sony A7S
+Typically for semi-pros and pros using :
+
+* Sony A7, Sony A7II, Sony A7S, RX100 series etc.
 * Canon 5D Makr III, 1DC
-* Nikon D800, Nikon D810
-* TBC smaller sensor such as Sony RX100 series
+* Nikon D800, Nikon D810 etc.
 
 TODO
 ----
 
 * uploader
-* saturation, exposure, vibrancy
 * noise (tbd)
 * LUT composition
-* Premium LUTs with neural style and filmic grade
+* Premium LUTs filmic grade
+* neural style
 
 LICENSE
 -------
